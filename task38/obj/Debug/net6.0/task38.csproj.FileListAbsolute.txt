@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.AssemblyInfo.cs
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dz5C#\task38\bin\Debug\net6.0\task38.exe
+C:\Users\User\Desktop\dz5C#\task38\bin\Debug\net6.0\task38.deps.json
+C:\Users\User\Desktop\dz5C#\task38\bin\Debug\net6.0\task38.runtimeconfig.json
+C:\Users\User\Desktop\dz5C#\task38\bin\Debug\net6.0\task38.dll
+C:\Users\User\Desktop\dz5C#\task38\bin\Debug\net6.0\task38.pdb
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.dll
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\refint\task38.dll
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.pdb
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\task38.genruntimeconfig.cache
+C:\Users\User\Desktop\dz5C#\task38\obj\Debug\net6.0\ref\task38.dll
